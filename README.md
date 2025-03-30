@@ -45,7 +45,6 @@ The aim was to improve the classification accuracy of a CNN model on the CIFAR-1
 ## 📂 Project Structure
 
 - `Final_Score.ipynb` – Full notebook including architecture, training, and evaluation
-- `ECS659P_Neural_Network_Report.pdf` – Coursework documentation and analysis
 
 ---
 
